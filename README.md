@@ -37,8 +37,8 @@ Make sure you have **Node.js (>= 16.x) and npm (>= 8.x)** installed.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Khushal-Kathad/caption_editor.git
-cd caption-editor
+git clone https://github.com/Khushal-Kathad/caption_editing
+cd caption-editing
 ```
 
 ### Install Dependencies
